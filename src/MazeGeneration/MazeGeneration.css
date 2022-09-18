@@ -3,10 +3,6 @@
   padding: var(--vertical-spacing-regular) 2rem;
 }
 
-.maze-generation > h1 {
-  margin: 0;
-}
-
 .showcase {
   display: flex;
   flex-direction: row;
